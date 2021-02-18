@@ -4,6 +4,9 @@
   <!-- Bootable -->
   <remove-project name="platform/bootable/recovery" />
 
+  <!-- Build -->
+  <remove-project name="platform/bionic" />
+
   <!-- Device -->
   <remove-project name="device/amlogic/yukawa" />
   <remove-project name="device/amlogic/yukawa-kernel" />
