@@ -13,6 +13,7 @@
 
   <!-- Framework -->
   <project path="frameworks/av" name="platform_frameworks_av" remote="storm" />
+  <project path="frameworks/native" name="platform_frameworks_native" remote="storm" />
 
   <!-- HALs -->
   <project path="hardware/qcom-caf/common" name="platform_hardware_qcom-caf_common" remote="storm" >
