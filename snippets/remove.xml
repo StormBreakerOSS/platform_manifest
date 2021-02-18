@@ -67,6 +67,9 @@
   <!-- External -->
   <remove-project name="platform/external/tinycompress" />
 
+  <!-- Framework -->
+  <remove-project name="platform/frameworks/av" />
+
   <!-- Hardware -->
   <remove-project name="platform/hardware/libhardware" />
 

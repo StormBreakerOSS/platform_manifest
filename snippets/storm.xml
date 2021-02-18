@@ -8,6 +8,9 @@
   <!-- External -->
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="storm" />
 
+  <!-- Framework -->
+  <project path="frameworks/av" name="platform_frameworks_av" remote="storm" />
+
   <!-- HALs -->
   <project path="hardware/qcom-caf/common" name="platform_hardware_qcom-caf_common" remote="storm" >
     <!-- add guard for AOSP hardware/qcom dir -->
