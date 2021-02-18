@@ -5,6 +5,9 @@
            revision="reikon"
            fetch="https://github.com/StormBreakerOSS" />
 
+  <!-- External -->
+  <project path="external/tinycompress" name="platform_external_tinycompress" remote="storm" />
+
   <!-- HALs -->
   <project path="hardware/qcom-caf/common" name="platform_hardware_qcom-caf_common" remote="storm" >
     <!-- add guard for AOSP hardware/qcom dir -->
@@ -39,5 +42,8 @@
   <project path="hardware/qcom-caf/sm8250/audio" name="platform_hardware_qcom_audio" revision="reikon-8250" remote="storm" />
   <project path="hardware/qcom-caf/sm8250/display" name="platform_hardware_qcom_display" revision="reikon-8250" remote="storm" />
   <project path="hardware/qcom-caf/sm8250/media" name="platform_hardware_qcom_media" revision="reikon-8250" remote="storm" />
+
+  <!-- Hardware -->
+  <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="storm" />
 
 </manifest>
