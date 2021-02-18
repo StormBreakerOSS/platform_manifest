@@ -5,6 +5,9 @@
            revision="reikon"
            fetch="https://github.com/StormBreakerOSS" />
 
+  <!-- Bootable -->
+  <project path="bootable/recovery" name="platform_bootable_recovery" remote="storm" />
+
   <!-- External -->
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="storm" />
 
