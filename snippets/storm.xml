@@ -80,4 +80,7 @@
   <!-- Hardware -->
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="github/StormBreakerOSS" />
 
+  <!-- Packages -->
+  <project path="packages/apps/CarrierSettings" name="platform_packages_apps_CarrierSettings" remote="github/StormBreakerOSS" />
+
 </manifest>
