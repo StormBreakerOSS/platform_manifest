@@ -38,6 +38,7 @@
   <!-- Framework -->
   <project path="frameworks/av" name="platform_frameworks_av" remote="github/StormBreakerOSS" />
   <project path="frameworks/native" name="platform_frameworks_native" remote="github/StormBreakerOSS" />
+  <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="github/StormBreakerOSS" />
 
   <!-- General -->
   <project path="vendor/stormbreaker" name="platform_vendor_stormbreaker" remote="github/StormBreakerOSS" />
