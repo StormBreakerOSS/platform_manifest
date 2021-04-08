@@ -32,6 +32,9 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <!-- CodeAurora additions -->
+  <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="github/StormBreakerOSS" />
+
   <!-- External -->
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="github/StormBreakerOSS" />
 
