@@ -35,6 +35,9 @@
   <!-- CodeAurora additions -->
   <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="github/StormBreakerOSS" />
 
+  <project path="hardware/qcom-caf/thermal" name="platform_hardware_qcom-caf_thermal" remote="github/StormBreakerOSS" />  
+  <project path="hardware/qcom-caf/wlan" name="platform_hardware_qcom-caf_wlan" remote="github/StormBreakerOSS" />
+
   <!-- External -->
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="github/StormBreakerOSS" />
 
