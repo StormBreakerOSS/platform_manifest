@@ -65,21 +65,21 @@
     <linkfile src="os_pickup.mk" dest="hardware/qcom-caf/sm8250/Android.mk" />
   </project>
 
-  <project path="hardware/qcom-caf/msm8996/audio" name="platform_hardware_qcom_audio" revision="reikon-8996" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/msm8996/display" name="platform_hardware_qcom_display" revision="reikon-8996" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/msm8996/media" name="platform_hardware_qcom_media" revision="reikon-8996" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/msm8998/audio" name="platform_hardware_qcom_audio" revision="reikon-8998" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/msm8998/display" name="platform_hardware_qcom_display" revision="reikon-8998" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/msm8998/media" name="platform_hardware_qcom_media" revision="reikon-8998" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/sdm845/audio" name="platform_hardware_qcom_audio" revision="reikon-845" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/sdm845/display" name="platform_hardware_qcom_display" revision="reikon-845" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/sdm845/media" name="platform_hardware_qcom_media" revision="reikon-845" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/sm8150/audio" name="platform_hardware_qcom_audio" revision="reikon-8150" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/sm8150/display" name="platform_hardware_qcom_display" revision="reikon-8150" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/sm8150/media" name="platform_hardware_qcom_media" revision="reikon-8150" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/sm8250/audio" name="platform_hardware_qcom_audio" revision="reikon-8250" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/sm8250/display" name="platform_hardware_qcom_display" revision="reikon-8250" remote="github/StormBreakerOSS" />
-  <project path="hardware/qcom-caf/sm8250/media" name="platform_hardware_qcom_media" revision="reikon-8250" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/msm8996/audio" name="platform_hardware_qcom-caf_msm8996_audio" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/msm8996/display" name="platform_hardware_qcom-caf_msm8996_display" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/msm8996/media" name="platform_hardware_qcom-caf_msm8996_media" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/msm8998/audio" name="platform_hardware_qcom-caf_msm8998_audio" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/msm8998/display" name="platform_hardware_qcom-caf_msm8998_display" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/msm8998/media" name="platform_hardware_qcom-caf_msm8998_media" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/sdm845/audio" name="platform_hardware_qcom-caf_sdm845_audio" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/sdm845/display" name="platform_hardware_qcom-caf_sdm845_display" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/sdm845/media" name="platform_hardware_qcom-caf_sdm845_media" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/sm8150/audio" name="platform_hardware_qcom-caf_sm8150_audio" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/sm8150/display" name="platform_hardware_qcom-caf_sm8150_display" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/sm8150/media" name="platform_hardware_qcom-caf_sm8150_media" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/sm8250/audio" name="platform_hardware_qcom-caf_sm8250_audio" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/sm8250/display" name="platform_hardware_qcom-caf_sm8250_display" remote="github/StormBreakerOSS" />
+  <project path="hardware/qcom-caf/sm8250/media" name="platform_hardware_qcom-caf_sm8250_media" remote="github/StormBreakerOSS" />
 
   <!-- Hardware -->
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="github/StormBreakerOSS" />
