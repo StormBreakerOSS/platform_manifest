@@ -38,6 +38,8 @@
   <project path="hardware/qcom-caf/thermal" name="platform_hardware_qcom-caf_thermal" remote="github/StormBreakerOSS" />  
   <project path="hardware/qcom-caf/wlan" name="platform_hardware_qcom-caf_wlan" remote="github/StormBreakerOSS" />
 
+  <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces" remote="github/StormBreakerOSS" />
+
   <!-- External -->
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="github/StormBreakerOSS" />
 
