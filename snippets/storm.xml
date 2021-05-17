@@ -44,6 +44,7 @@
 
   <!-- Framework -->
   <project path="frameworks/av" name="platform_frameworks_av" remote="github/StormBreakerOSS" />
+  <project path="frameworks/base" name="platform_frameworks_base" remote="github/StormBreakerOSS" />
   <project path="frameworks/native" name="platform_frameworks_native" remote="github/StormBreakerOSS" />
   <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="github/StormBreakerOSS" />
 
