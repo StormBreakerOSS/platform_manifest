@@ -85,4 +85,7 @@
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/hardware/libhardware_legacy" />
 
+  <!-- Packages -->
+  <remove-project name="platform/packages/apps/Settings" />
+
 </manifest>
