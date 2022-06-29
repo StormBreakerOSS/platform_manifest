@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="sboss"
+           revision="sboss-12"
+           fetch="https://github.com/StormBreakerOSS" />
+
+</manifest>
