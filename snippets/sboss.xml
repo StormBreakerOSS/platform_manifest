@@ -30,6 +30,7 @@
 
   <!-- Packages -->
   <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="sboss" />
+  <project path="packages/modules/Permission" name="platform_packages_modules_Permission" remote="sboss" />
 
   <!-- System -->
   <project path="system/core" name="platform_system_core" remote="sboss" />

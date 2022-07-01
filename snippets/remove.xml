@@ -15,6 +15,7 @@
 
   <!-- Packages -->
   <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/modules/Permission" />
 
   <!-- System -->
   <remove-project name="platform/system/core" />
