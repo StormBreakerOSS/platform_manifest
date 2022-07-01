@@ -7,10 +7,14 @@
   <remove-project name="platform/build/soong" />
 
   <!-- Frameworks -->
+  <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/native" />
 
   <!-- Hardware -->
   <remove-project name="platform/hardware/libhardware" />
+
+  <!-- Packages -->
+  <remove-project name="platform/packages/apps/Settings" />
 
   <!-- System -->
   <remove-project name="platform/system/core" />
