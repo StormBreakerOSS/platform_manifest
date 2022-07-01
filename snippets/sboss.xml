@@ -5,4 +5,7 @@
            revision="sboss-12"
            fetch="https://github.com/StormBreakerOSS" />
 
+  <!-- Hardware -->
+  <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="sboss" />
+
 </manifest>
