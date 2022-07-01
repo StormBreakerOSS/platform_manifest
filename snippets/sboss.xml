@@ -8,4 +8,7 @@
   <!-- Hardware -->
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="sboss" />
 
+  <!-- Vendor -->
+  <project path="vendor/stormbreaker" name="platform_vendor_stormbreaker" remote="sboss" />
+
 </manifest>
