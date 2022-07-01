@@ -6,6 +6,7 @@
            fetch="https://github.com/StormBreakerOSS" />
 
   <!-- Build -->
+  <project path="bionic" name="platform_bionic" remote="sboss" />
   <project path="build/make" name="platform_build" remote="sboss">
     <copyfile src="core/root.mk" dest="Makefile" />
     <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
