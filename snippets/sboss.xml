@@ -20,6 +20,9 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <!-- Frameworks -->
+  <project path="frameworks/native" name="platform_frameworks_native" remote="sboss" />
+
   <!-- Hardware -->
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="sboss" />
 
