@@ -18,6 +18,7 @@
 
   <!-- External -->
   <project path="external/json-c" name="android_external_json-c" remote="lineage" />
+  <project path="external/tinycompress" name="android_external_tinycompress" remote="lineage" />
 
   <!-- HALs -->
   <project path="hardware/qcom-caf/common" name="android_hardware_qcom-caf_common" remote="lineage" >

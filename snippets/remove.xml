@@ -6,6 +6,9 @@
   <remove-project name="platform/build" />
   <remove-project name="platform/build/soong" />
 
+  <!-- External -->
+  <remove-project name="platform/external/tinycompress" />
+
   <!-- Frameworks -->
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/native" />
