@@ -21,6 +21,9 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
 
+  <!-- External -->
+  <project path="external/Camera" name="platform_external_Camera" remote="sboss" />
+
   <!-- Frameworks -->
   <project path="frameworks/base" name="platform_frameworks_base" remote="sboss" />
   <project path="frameworks/native" name="platform_frameworks_native" remote="sboss" />
